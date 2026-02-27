@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Privacy Display</string>
+    <string name="tile_label">Privacy Mode</string>
+    <string name="enable_privacy">Enable Privacy Mode</string>
+    <string name="disable_privacy">Disable Privacy Mode</string>
+    <string name="notification_title">Privacy Mode Active</string>
+    <string name="notification_text">Screen is protected from shoulder surfing</string>
+    <string name="permission_required">Overlay permission is required to draw over other apps</string>
+    <string name="permission_granted">Permission granted — ready to activate</string>
+</resources>
